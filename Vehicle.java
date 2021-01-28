@@ -1,5 +1,5 @@
 /**
- * Vehicle Class
+ * Abstract class for vehicle
  * @author Jackson Carroll
  */
 public abstract class Vehicle {
