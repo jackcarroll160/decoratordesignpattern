@@ -7,7 +7,7 @@ package decoratordesignpattern;
 public class Compact extends Vehicle {
 
     public Compact() {
-        this.description = "Compact";
+        this.description = "Compact Car";
     }
 
     public double getCost() {
