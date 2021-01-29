@@ -1,3 +1,5 @@
+package decoratordesignpattern;
+
 /**
  * Class for rims extending vehicle decorator
  * @author Jackson Carroll

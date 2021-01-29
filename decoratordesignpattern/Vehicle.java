@@ -1,3 +1,5 @@
+package decoratordesignpattern;
+
 /**
  * Abstract class for vehicle
  * @author Jackson Carroll

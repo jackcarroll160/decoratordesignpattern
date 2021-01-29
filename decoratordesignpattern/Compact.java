@@ -1,3 +1,5 @@
+package decoratordesignpattern;
+
 /**
  * Class for compact cars extending vehicle
  * @author Jackson Carroll

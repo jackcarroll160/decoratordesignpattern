@@ -1,3 +1,5 @@
+package decoratordesignpattern;
+
 /**
  * Class for sound system extending vehicle decorator
  * @author Jackson Carroll 

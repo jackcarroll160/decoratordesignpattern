@@ -1,3 +1,5 @@
+package decoratordesignpattern;
+
 /**
  * Class for sedan cars extending vehicle
  * @author Jackson Carroll

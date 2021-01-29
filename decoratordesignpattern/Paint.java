@@ -1,3 +1,5 @@
+package decoratordesignpattern;
+
 /**
  * Class for paint extending vehicle decorator
  * @author Jackson Carroll

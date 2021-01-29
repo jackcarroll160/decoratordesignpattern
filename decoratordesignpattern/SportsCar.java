@@ -1,3 +1,5 @@
+package decoratordesignpattern;
+
 /**
  * Class for sports car extending vehicle
  * @author Jackson Carroll
